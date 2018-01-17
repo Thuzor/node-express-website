@@ -1,0 +1,23 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Thuzor@github.com/Thuzor/node-express-website.git"
+  },
+  "author": "Adam Thewlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thuzor/node-express-website/issues"
+  },
+  "homepage": "https://github.com/Thuzor/node-express-website#readme"
+}
